@@ -1,5 +1,4 @@
 let arr =  [1,2,1,3,4,5,2,6,8,9];
-let a,b;
 let str = new Array();
 for(let i = 0; i < arr.length; i++){
     let subArr = [arr[i]];
